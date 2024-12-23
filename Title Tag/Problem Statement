@@ -1,0 +1,10 @@
+Problem statement
+
+Title Tag
+Lets get started with Html! , Developers you have to set the appropriate title in the title tag
+Welcome, developers! Your mission is to design an Html template in which you will have to enter the title in the title tag which will also be rendered in the tab.
+
+
+Task for students
+Must to have
+< title> should exist and contain the word 'Title'
